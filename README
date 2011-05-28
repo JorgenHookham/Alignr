@@ -1,8 +1,59 @@
-Alignr
+*******************************************
+*******************************************
+*************                **************
+*************     Alignr     **************
+*************                **************
+*******************************************
+*******************************************
 
-To be built with CSS, Javascript and jQuery
 
-Notes for creation:
+
+
+
+* * * * * * * * *
+
+In This Document :
+
+1. Change Log
+
+2. J¿rgen's Notes
+
+****************
+***********
+******
+*
+
+
+
+
+
+* * * * * * * * *
+
+1. Change Log
+
+****************
+***********
+******
+*
+
+May 28, 2011:
+- Added a lot of asterisks to the README
+- Added a trimmed-down HTML5 BP for an initial dev environment
+
+
+
+
+
+* * * * * * * * *
+
+2. J¿rgen's Notes
+
+****************
+***********
+******
+*
+
+Alignr will be built with CSS, Javascript and jQuery
 
 The grid will be built with css.
 
@@ -11,4 +62,4 @@ I think that the css should be generated within the same javascript file as the 
 Maybe a css stylesheet option should be available for non-javascript development environments? (Do those exist?) In that vein, I would like to have an option to output the script for alignr settings that have been compiled by the aligner UI - maybe a CSS output would be useful as well?
 
 User controllable variables (function params):
-- 
+- (see technical ui wireframes)
