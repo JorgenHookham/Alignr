@@ -1,3 +1,14 @@
 Alignr
 
 To be built with CSS, Javascript and jQuery
+
+Notes for creation:
+
+The grid will be built with css.
+
+I think that the css should be generated within the same javascript file as the source code, to keep http requests to a minimum.
+
+Maybe a css stylesheet option should be available for non-javascript development environments? (Do those exist?) In that vein, I would like to have an option to output the script for alignr settings that have been compiled by the aligner UI - maybe a CSS output would be useful as well?
+
+User controllable variables (function params):
+- 
